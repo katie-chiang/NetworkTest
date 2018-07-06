@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f34edface32694e93a81afa37b574864
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - nameField: {instanceID: 0}
+  - readyField: {instanceID: 0}
+  - rollResultField: {instanceID: 0}
+  - totalPointsField: {instanceID: 0}
+  - spherePrefab: {fileID: 1091383015091750, guid: 829f70dea321e422aafe9e893c836680,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
